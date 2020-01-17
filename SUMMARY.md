@@ -2,8 +2,13 @@
 
 * [Initial page](README.md)
 
-## 笔记 <a id="ji-suan-ji"></a>
+## 笔记
 
-* [Untitled](ji-suan-ji/untitled.md)
-* [Untitled](untitled.md)
+* [Untitled](bi-ji/untitled.md)
+
+## 笔记 <a id="bi-ji-1"></a>
+
+* [Untitled](bi-ji-1/untitled/README.md)
+  * [Untitled](bi-ji-1/untitled/untitled/README.md)
+    * [Untitled](bi-ji-1/untitled/untitled/untitled.md)
 

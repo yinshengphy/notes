@@ -1,8 +1,8 @@
 # Initial page
 
-## Getting Super Powers
-
 Becoming a super hero is a fairly straight forward process:
+
+## Getting Super Powers
 
 ```
 $ give me super-powers
