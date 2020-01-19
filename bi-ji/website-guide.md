@@ -4,7 +4,7 @@ description: 第一篇笔记用于介绍该网站的建站流程，包括涉及�
 
 # 建站指南
 
-本站服务器采用京东云，利用docker进行容器部署管理，静态资源服务器Nginx，利用Jenkins持续集成部署
+本站服务器采用京东云，利用docker进行容器管理，静态资源服务器Nginx，利用Jenkins持续集成部署
 
 ## Getting Super Powers
 
