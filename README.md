@@ -1,8 +1,7 @@
 # 网站建设中
 
-yinsheng的笔记
 
-## Getting Super Powers
+## yinsheng的笔记
 
 ```
 $ give me super-powers
