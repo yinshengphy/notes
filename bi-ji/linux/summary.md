@@ -1,6 +1,6 @@
 # linux常用命令总结
 
-- 执行需要多次交互的脚本
+- **执行需要多次交互的脚本**
 ```
 $ echo -e "Y\nYINSHENG.STUDIO\n" | apt-get install krb5-kdc krb5-admin-server
 ```
