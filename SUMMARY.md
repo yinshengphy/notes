@@ -4,13 +4,9 @@
 
 ## 笔记
 
-    ## 笔记2
-
-* [网络](bi-ji/network.md)
-* [Docker](bi-ji/docker-wang-luo.md)
-  * [Untitled](bi-ji/docker/untitled.md)
-* [建站指南](bi-ji/website-guide.md)
-
+* [Linux](bi-ji/linux.md)
+    *[常用命令总结](bi-ji/linux/summary.md)
+    
 ## 随笔
 
 * [rsa原理](sui-bi/rsa.md)
