@@ -1,19 +1,14 @@
 {
-  "title": "Blankj's Glory",
-  "author": "Blankj",
-  "description": "select * from learn",
+  "title": "奶茶店",
+  "author": "yinshengphy",
+  "description": "二狗的随笔网站，记录笔记，随笔等",
   "language": "zh-hans",
   "gitbook": "3.2.3",
   "styles": {
-    "website": "styles/website.css"
+    "website": "static/styles/website.css"
   },
   "structure": {
     "readme": "README.md"
-  },
-  "links": {
-    "sidebar": {
-      "我的狗窝": "https://blankj.com"
-    }
   },
   "plugins": [
     "-sharing",
@@ -29,7 +24,7 @@
   ],
   "pluginsConfig": {
     "github": {
-      "url": "https://github.com/Blankj"
+      "url": "https://github.com/yinshengphy"
     },
     "github-buttons": {
       "buttons": [
@@ -43,7 +38,7 @@
       ]
     },
     "donate": {
-      "alipay": "./source/images/donate.png",
+      "alipay": "static/images/appreciate.jpg",
       "title": "",
       "button": "赞赏",
       "alipayText": " "
@@ -81,12 +76,12 @@
       "showLevel": false
     },
     "favicon": {
-      "shortcut": "./source/images/favicon.jpg",
-      "bookmark": "./source/images/favicon.jpg",
-      "appleTouch": "./source/images/apple-touch-icon.jpg",
+      "shortcut": "static/images/favicon.ico",
+      "bookmark": "static/images/favicon.ico",
+      "appleTouch": "static/images/favicon.ico",
       "appleTouchMore": {
-        "120x120": "./source/images/apple-touch-icon.jpg",
-        "180x180": "./source/images/apple-touch-icon.jpg"
+        "120x120": "static/images/favicon.ico",
+        "180x180": "static/images/favicon.ico"
       }
     }
   }
