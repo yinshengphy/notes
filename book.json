@@ -13,13 +13,10 @@
   "plugins": [
     "-sharing",
     "splitter",
-    "expandable-chapters-small",
     "anchors",
     "github",
     "github-buttons",
-    "donate",
     "sharing-plus",
-    "anchor-navigation-ex",
     "favicon"
   ],
   "pluginsConfig": {
@@ -29,19 +26,13 @@
     "github-buttons": {
       "buttons": [
         {
-          "user": "Blankj",
-          "repo": "glory",
-          "type": "star",
+          "user": "yinshengphy",
+          "repo": "notes",
+          "type": "watch",
           "size": "small",
           "count": true
         }
       ]
-    },
-    "donate": {
-      "alipay": "static/images/appreciate.jpg",
-      "title": "",
-      "button": "赞赏",
-      "alipayText": " "
     },
     "sharing": {
       "douban": false,
