@@ -1,5 +1,7 @@
 # Table of contents
 
+* [前言](README.md)
+
 ## 笔记
 
 * [Linux](bi-ji/linux.md)
