@@ -12,8 +12,6 @@
   },
   "plugins": [
     "-sharing",
-    "splitter",
-    "anchors",
     "github",
     "github-buttons",
     "sharing-plus",
