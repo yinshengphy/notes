@@ -1,9 +1,8 @@
 # linux常用命令总结
 
-- **执行需要多次交互的脚本**
-```
-$ echo -e "Y\nYINSHENG.STUDIO\n" | apt-get install krb5-kdc krb5-admin-server
-```
+- **执行需要多次交互的脚本**  
+kerberos 安装演示  
+`$ echo -e "Y\nYINSHENG.STUDIO\nnm1 nm2 dn1 dn2\nadmin\n" | apt-get install krb5-kdc krb5-admin-server`  
 When users attempt to use Kerberos and specify a principal or user
 name without specifying what administrative Kerberos realm that
 principal belongs to, the system appends the default realm.  The
