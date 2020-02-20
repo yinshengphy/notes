@@ -11,10 +11,9 @@
     "readme": "README.md"
   },
   "plugins": [
-    "-sharing",
+    "sharing",
     "github",
     "github-buttons",
-    "sharing-plus",
     "favicon"
   ],
   "pluginsConfig": {
@@ -30,35 +29,6 @@
           "size": "small",
           "count": true
         }
-      ]
-    },
-    "sharing": {
-      "douban": false,
-      "facebook": false,
-      "google": false,
-      "hatenaBookmark": false,
-      "instapaper": false,
-      "line": false,
-      "linkedin": false,
-      "messenger": false,
-      "pocket": false,
-      "qq": false,
-      "qzone": false,
-      "stumbleupon": false,
-      "twitter": false,
-      "viber": false,
-      "vk": false,
-      "weibo": false,
-      "whatsapp": false,
-      "all": [
-        "google",
-        "facebook",
-        "weibo",
-        "twitter",
-        "qq",
-        "qzone",
-        "linkedin",
-        "pocket"
       ]
     },
     "anchor-navigation-ex": {
