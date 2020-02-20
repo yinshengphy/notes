@@ -1,7 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
-
 ## 笔记
 
 * [Linux](bi-ji/linux.md)
