@@ -1,10 +1,7 @@
 # Table of contents
 
 * [Initial page](README.md)
-# 笔记
 ## 笔记
-###？？
-####？？
 * [网络](bi-ji/network.md)
 * [Docker](bi-ji/docker-wang-luo.md)
   * [Untitled](bi-ji/docker/untitled.md)
