@@ -5,7 +5,7 @@
 ## 笔记
 
 * [Linux](bi-ji/linux.md)
-    *[常用命令总结](bi-ji/linux/summary.md)
+    * [常用命令总结](bi-ji/linux/summary.md)
     
 ## 随笔
 
