@@ -4,8 +4,10 @@
 
 ## 笔记
 
-* [Linux](bi-ji/linux.md)
-    * [常用命令总结](bi-ji/linux/summary.md)
+* [Linux](bi-ji/linux/linux.md)
+    * [常用命令总结](bi-ji/linux/common_commands.md)
+* [Hadoop](bi-ji/hadoop/hadoop.md)
+    * [hdfs](bi-ji/hadoop/hdfs.md)
     
 ## 随笔
 
